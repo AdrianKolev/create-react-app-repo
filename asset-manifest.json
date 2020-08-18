@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/create-react-app-repo/static/css/main.84d84195.chunk.css",
+    "main.js": "/create-react-app-repo/static/js/main.3e84eaf5.chunk.js",
+    "main.js.map": "/create-react-app-repo/static/js/main.3e84eaf5.chunk.js.map",
+    "runtime-main.js": "/create-react-app-repo/static/js/runtime-main.232505dd.js",
+    "runtime-main.js.map": "/create-react-app-repo/static/js/runtime-main.232505dd.js.map",
+    "static/js/2.7208ebd3.chunk.js": "/create-react-app-repo/static/js/2.7208ebd3.chunk.js",
+    "static/js/2.7208ebd3.chunk.js.map": "/create-react-app-repo/static/js/2.7208ebd3.chunk.js.map",
+    "index.html": "/create-react-app-repo/index.html",
+    "precache-manifest.00e4a589e0b6f7f3c35d8d050aefd40f.js": "/create-react-app-repo/precache-manifest.00e4a589e0b6f7f3c35d8d050aefd40f.js",
+    "service-worker.js": "/create-react-app-repo/service-worker.js",
+    "static/css/main.84d84195.chunk.css.map": "/create-react-app-repo/static/css/main.84d84195.chunk.css.map",
+    "static/js/2.7208ebd3.chunk.js.LICENSE.txt": "/create-react-app-repo/static/js/2.7208ebd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.232505dd.js",
+    "static/js/2.7208ebd3.chunk.js",
+    "static/css/main.84d84195.chunk.css",
+    "static/js/main.3e84eaf5.chunk.js"
+  ]
+}
